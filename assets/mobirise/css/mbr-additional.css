@@ -1395,7 +1395,7 @@ body {
 }
 .cid-sbwB6zhShg {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-sbwB6zhShg .mbr-figure {
@@ -2284,6 +2284,12 @@ body {
 .cid-sc5rUkjFwu .b-descr {
   color: #0a19a4;
   text-align: left;
+}
+.cid-sc5rUkjFwu .b-descr P {
+  color: #0a19a4;
+}
+.cid-sc5rUkjFwu P {
+  color: #0a19a4;
 }
 .cid-sc5El0vCSR {
   background: #efefef;
