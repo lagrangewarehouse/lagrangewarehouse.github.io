@@ -1393,6 +1393,18 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #0a19a4;
 }
+.cid-sftwjxhDsB {
+  padding-top: 120px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-sftwjxhDsB H1 {
+  color: #c21803;
+}
+.cid-sftwjxhDsB .mbr-text,
+.cid-sftwjxhDsB .mbr-section-btn {
+  color: #c21803;
+}
 .cid-seh8WLE0oA {
   padding-top: 120px;
   padding-bottom: 90px;
