@@ -1394,39 +1394,6 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #0a19a4;
 }
-.cid-si81nEnADR {
-  background: #ffffff;
-  padding-top: 45px;
-  padding-bottom: 0px;
-  background: linear-gradient(0deg, #ffffff, #ffffff);
-}
-.cid-si81nEnADR .image-block {
-  margin: auto;
-}
-.cid-si81nEnADR figcaption {
-  position: relative;
-}
-.cid-si81nEnADR figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-si81nEnADR .image-block {
-    width: 100% !important;
-  }
-}
-.cid-si82En2sAt {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-si82En2sAt P {
-  color: #767676;
-}
-.cid-si82En2sAt SPAN {
-  color: #0a19a4;
-}
 .cid-sftwjxhDsB {
   padding-top: 120px;
   padding-bottom: 30px;
